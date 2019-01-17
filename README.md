@@ -29,5 +29,3 @@ True Negative-13
 False Positive -1
 False Negative-0
 Accuracy = 26/27 = 96%
-
-
